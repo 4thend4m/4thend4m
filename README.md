@@ -1,6 +1,6 @@
 <div>
   <h1 align="center">Hello, all well? I'm <a href=""><i>Kauan</i></a> 😃️</h1>
-  <p align="center">I currently study in person at <a href="https://www.vianna.edu.br/analise-e-desenv-de-sistemas/"><i>Instituo Vianna Junior<i></a> and remotely in the <a href="https://www.alura.com.br/"><i>Alura</i></a>
+  <p align="center">Studies through: <a href="https://www.vianna.edu.br/analise-e-desenv-de-sistemas/"><i>Instituo Vianna Junior<i></a>, <a href="https://www.alura.com.br/"><i>Alura</i></a> and <a href="https://www.udemy.com/"><i>Udemy</i></a>
   </a><br>
 </div>
 
