@@ -5,11 +5,12 @@
 </div>
 
 <div align="center">
-  <a href="https://github.com/4thend4m">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=4thend4m&count_private=true&include_all_commits=true&show_icons=true&theme=&hide_border=false&show_owner=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4thend4m&theme=&hide_border=false&&layout=compact"/>
-  </a>
-</div>
+  <a href="http://www.github.com/4thend4m"><img src="https://github-readme-stats.vercel.app/api?username=4thend4m&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="4thend4m's GitHub stats" /></a>
+
+  <a href="http://www.github.com/4thend4m"><img src="https://github-readme-streak-stats.herokuapp.com/?user=4thend4m&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+  <a href="https://github.com/4thend4m" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4thend4m&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Most used languages" /></a>
+ </div>
 
 <div align="center" valign="top"><br>
   <img align="center" alt"PYHON" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
