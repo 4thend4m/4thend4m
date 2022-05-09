@@ -25,8 +25,15 @@
   <a href="mailto:4thend4mcc@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
+<a href="http://www.github.com/4thend4m">
+  <img src="https://activity-graph.herokuapp.com/graph?username=4thend4m&bg_color=0a0e12&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" />
+</a>  
+  
+<!--
 <div align="center"> 
   
   ![Snake animation](https://github.com/4thend4m/4thend4m/blob/output/github-contribution-grid-snake.svg)
   
 </div>
+-->
+  
