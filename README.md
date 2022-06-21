@@ -7,7 +7,7 @@
 <div align="center">
   <a href="http://www.github.com/4thend4m"><img align='left' src="https://github-readme-stats.vercel.app/api?username=4thend4m&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0a0e12&hide_border=true&show_icons=true" alt="4thend4m's GitHub stats" /></a>
   <a href="http://www.github.com/4thend4m"><img align='left' src="https://github-readme-streak-stats.herokuapp.com/?user=4thend4m&stroke=ffffff&background=0a0e12&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-  <br><a href="https://github.com/4thend4m" align="left"><img align='center' valign='center' src="https://github-readme-stats.vercel.app/api/top-langs/?username=4thend4m&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0a0e12&hide_border=true&locale=en&custom_title=Most%20%Used%20%Languages" alt="Most used languages" /></a>
+  <a href="https://github.com/4thend4m" align="left"><img align='center' valign='center' src="https://github-readme-stats.vercel.app/api/top-langs/?username=4thend4m&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0a0e12&hide_border=true&locale=en&custom_title=Most%20%Used%20%Languages" alt="Most used languages" /></a>
  </div>
 
 <div align="center" valign="top"><br>
