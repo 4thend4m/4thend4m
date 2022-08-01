@@ -1,6 +1,6 @@
 <div>
   <h1 align="center">Hello, all well? I'm <a href=""><i>Kauan</i></a> 😃️</h1>
-  <p align="center">Studies through: <a href="https://www.vianna.edu.br/analise-e-desenv-de-sistemas/"><i>Instituto Vianna Junior<i></a> | <a href="https://onebitcode.com/lp/"><i>OneBitCode</i></a> | <a href="https://www.udemy.com/"><i>Udemy</i></a> | <a href="https://cursos.alura.com.br/user/4thend"><i>Alura</i></a>
+  <p align="center">Studies through: <a href="https://www.vianna.edu.br/analise-e-desenv-de-sistemas/"><i>Instituto Vianna Junior<i></a> | <a href="https://onebitcode.com/lp/"><i>One Bit Code</i></a> | <a href="https://www.udemy.com/"><i>Udemy</i></a> | <a href="https://cursos.alura.com.br/user/4thend"><i>Alura</i></a>
   </a><br>
 </div>
 
